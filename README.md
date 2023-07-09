@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vinitservers.ml/#projects](https://vinitservers.ml/#projects)
 
-- 💬 Ask me about **React.js, Next.js, Html, Php**
+- 💬 Ask me about **C, Java, C++, Python, React.js, Next.js, Html, Css, Js, Php**
 
 - 📫 How to reach me **vinitpatel2019@gmail.com**
 
