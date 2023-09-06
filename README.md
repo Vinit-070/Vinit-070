@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinit-070" alt="vinit-070" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://vinitservers.ml/#projects](https://vinitservers.ml/#projects)
+- 👨‍💻 All of my projects are available at [https://vinitservers.me/#projects](https://vinitservers.me/#projects)
 
 - 💬 Ask me about **C, Java, C++, Python, React.js, Next.js, Html, Css, Js, Php**
 
 - 📫 How to reach me **vinitpatel2019@gmail.com**
 
-- 📄 Know about my experiences [https://vinitservers.ml/#experiences](https://vinitservers.ml/#experiences)
+- 📄 Know about my experiences [https://vinitservers.me/#experiences](https://vinitservers.me/#experiences)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
