@@ -13,6 +13,12 @@
 
 - 📄 Know about my experiences [https://vinitservers.me/#experiences](https://vinitservers.me/#experiences)
 
+
+<h3 align="left">Badges I earned:</h3>
+<p align="left">
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9131d3c2-eecc-4bad-8c83-d0348d14a335" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/vinit.patel_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinit.patel_07" height="30" width="40" /></a>
