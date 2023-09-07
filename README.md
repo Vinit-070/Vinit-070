@@ -18,7 +18,7 @@
 <h3 align="left">Badges I earned:</h3>
 <!-- <p align="left"> -->
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9131d3c2-eecc-4bad-8c83-d0348d14a335" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9131d3c2-eecc-4bad-8c83-d0348d14a335" data-share-badge-host="https://www.credly.com"></div>
 <!-- </p> -->
   
 
