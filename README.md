@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Vinit Patel</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
@@ -16,8 +17,10 @@
 
 <h3 align="left">Badges I earned:</h3>
 <p align="left">
+  <html>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9131d3c2-eecc-4bad-8c83-d0348d14a335" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </p>
+  </html>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
