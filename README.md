@@ -1,4 +1,5 @@
-
+<html>
+  <body>
 <h1 align="center">Hi 👋, I'm Vinit Patel</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
@@ -16,11 +17,7 @@
 
 
 <h3 align="left">Badges I earned:</h3>
-<!-- <p align="left"> -->
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9131d3c2-eecc-4bad-8c83-d0348d14a335" data-share-badge-host="https://www.credly.com"></div>
-<!-- </p> -->
-  
+<a href="https://www.credly.com/badges/9131d3c2-eecc-4bad-8c83-d0348d14a335/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/150x150/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="CISCO" width="60" height="60"/> </a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinit-070&show_icons=true&locale=en" alt="vinit-070" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinit-070&" alt="vinit-070" /></p>
+</body>
+</html>
